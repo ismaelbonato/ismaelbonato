@@ -7,7 +7,7 @@
 ## 🧑‍💻 Software Developer
 
 <div align="center">
-  <a href="https://github.com/leonardo-muniz">
+  <a href="https://github.com/ismaelbonato">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelbonato&show_icons=true&theme=react&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelbonato&layout=donut&theme=react" />
   </a>
